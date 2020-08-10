@@ -1,0 +1,13 @@
+C:\Users\Soon\source\repos\DatagridView\DatagridView\bin\Debug\DatagridView.exe.config
+C:\Users\Soon\source\repos\DatagridView\DatagridView\bin\Debug\DatagridView.exe
+C:\Users\Soon\source\repos\DatagridView\DatagridView\bin\Debug\DatagridView.pdb
+C:\Users\Soon\source\repos\DatagridView\DatagridView\bin\Debug\MySql.Data.dll
+C:\Users\Soon\source\repos\DatagridView\DatagridView\bin\Debug\MySql.Data.xml
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.csprojResolveAssemblyReference.cache
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.Form1.resources
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.Properties.Resources.resources
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.csproj.GenerateResource.Cache
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.csproj.CoreCompileInputs.cache
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.exe
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.pdb
+C:\Users\Soon\source\repos\DatagridView\DatagridView\obj\Debug\DatagridView.Resource1.resources
